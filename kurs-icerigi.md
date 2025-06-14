@@ -1,4 +1,4 @@
-# Online C++ Kursu İçeriği
+# Online C++ ile Nesne Yönelimli Programlama Kursu İçeriği
 
 ## C++ Dilinin Genel Tanıtımı
 + C++ dilinin tarihçesi
