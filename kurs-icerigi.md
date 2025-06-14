@@ -452,4 +452,4 @@ sınıflar ve isim arama `(name lookup)`
 + std::packaged_task sınıfı
 + paralel STL algoritmaları
 
-+ + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/RqrOXThiQ0eaSoun9zkG6A#/registration)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/RqrOXThiQ0eaSoun9zkG6A#/registration)
