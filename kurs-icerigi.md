@@ -1,4 +1,4 @@
-# Online C++ ile Nesne Yönelimli Programlama Kursu İçeriği
+# Online C++ ile Nesne Yönelimli Programlama (220 Saat)
 
 ## C++ Dilinin Genel Tanıtımı
 + C++ dilinin tarihçesi
