@@ -12,5 +12,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-20-Ekim-2025/blob/main/kurs-tan%C4%B1t%C4%B1m%C4%B1.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-20-Ekim-2025/blob/main/kurs-icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Cplusplus-Programlama-Dili-Kursu-20-Ekim-2025/blob/main/sss.md)
-
-[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/RqrOXThiQ0eaSoun9zkG6A#/registration )
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/RqrOXThiQ0eaSoun9zkG6A#/registration )
