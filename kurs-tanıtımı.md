@@ -28,7 +28,7 @@ Programın toplam süresi __220__ saattir.
 Dersler __Pazartesi ve Çarşamba__ günleri __19:45 – 22:45__ saatleri arasında __3’er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
-__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)__
+__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Cplusplus-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-20-Ekim-2025/blob/main/kurs-icerigi.md)__
 
 ## Eğitmen
 Kurs C ve Sistem Programcıları Derneği başkanı Kaan ASLAN tarafından verilmektedir. Kaan ASLAN sistem programlama ve yazılım eğitiminde Türkiye’deki en deneyimli eğitmenlerindendir. Çeşitli pozisyonlarda pek çok projede bulunmuş, 200’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir.
