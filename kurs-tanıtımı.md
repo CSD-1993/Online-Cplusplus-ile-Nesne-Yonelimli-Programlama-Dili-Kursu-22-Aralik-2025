@@ -1,4 +1,4 @@
-# Online C++ Kursu
+# Online C++ ile Nesne Yönelimli Programlama Dili Kursu
 
 + Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) ve Sistem Bilgisayar Hizmetleri tarafından düzenlenmektedir. 
 
