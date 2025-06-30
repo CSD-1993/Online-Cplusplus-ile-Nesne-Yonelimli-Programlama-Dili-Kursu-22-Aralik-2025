@@ -1,4 +1,4 @@
-# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - Genel Tanıtımı
+# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - Genel Tanıtım
 
 + Bu kurs [C ve Sistem Programcıları Derneği](www.csystem.org) ve Sistem Bilgisayar Hizmetleri tarafından düzenlenmektedir. 
 
