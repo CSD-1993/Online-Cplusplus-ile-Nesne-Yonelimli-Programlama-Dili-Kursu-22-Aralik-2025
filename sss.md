@@ -1,4 +1,4 @@
-# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - 20 Ekim 2025 – Sık Sorulan Sorular
+# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - 22 Aralık 2025 – Sık Sorulan Sorular
 
 Aşağıda __Kaan Aslan__ tarafından verilen __Online C++ Programlama Dili Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
