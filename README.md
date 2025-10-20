@@ -1,7 +1,7 @@
-# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - 20 Ekim 2025
+# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - 22 Aralık 2025
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __20 Ekim 2025__ tarihinde başlayacaktır.
++ Kurs __22 Aralık 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __220__ saattir. 
